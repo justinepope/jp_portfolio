@@ -5,11 +5,18 @@
 	  <!-- GitHub -->
       <a href="https://github.com/justinepope"><i class="col s2 fa fa-github" aria-hidden="true" style="font-size:48px"></i></a>
 	</div>
+	  		  <div class="row tel">
+				   <div class="center">
+		  				tel:&nbsp;<a class="brown-text text-lighten-3" href="tel:1-503-490-3356">503.490.3356</a> &nbsp;
+					  	email:&nbsp;<a class="brown-text text-lighten-3" href="mailto:justine.pope@icloud.com?Subject=Justine%20Pope%20portfolio" target="_top">justine.pope@icloud.com</a>
+				  </div>
+			  </div>
     <div class="footer-copyright">
-      <div class="container">
-      &copy;2016<a class="brown-text text-lighten-3" href="http://justinepope.com">&nbsp;Justine Pope</a>
-      </div>
+      	<div class="container">
+			<p>&copy;2016<a class="brown-text text-lighten-3"  href="http://justinepope.com">&nbsp;Justine Pope</a></p>
+	  	</div>
     </div>
+	
   </footer>
 
 

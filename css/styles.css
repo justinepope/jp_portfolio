@@ -211,6 +211,14 @@ main .skill-bar-percent {
 footer .social i {
   color: #fde3d5;
 }
+footer .row.tel {
+  padding-top: 5%;
+  margin-bottom: 0;
+  color: #fde3d5;
+}
+footer .footer-copyright p {
+  color: #fde3d5;
+}
 @media only screen and (max-width: 992px) {
   .parallax-container .section {
     position: absolute;
@@ -256,10 +264,23 @@ footer .social i {
     font-size: 2.5em;
     color: #a98a7c;
     line-height: .01em;
+    padding-top: 30%;
   }
   header .justine {
     font-size: .5em;
     color: #a98a7c;
+  }
+  header .design {
+    padding-top: 70%;
+    font-family: 'Shrikhand', cursive;
+    font-size: 2.5em;
+    color: #a98a7c;
+    line-height: .01em;
+  }
+  header .devel {
+    font-size: 2.5em;
+    color: #a98a7c;
+    line-height: .01em;
   }
 }
 .icon-block {
